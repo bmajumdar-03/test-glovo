@@ -1,0 +1,5 @@
+PyGithub==2.9.0
+python-dotenv==1.2.0
+google-cloud-secret-manager==2.22.0
+google-adk
+google-generativeai
