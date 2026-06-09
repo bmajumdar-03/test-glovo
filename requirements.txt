@@ -1,0 +1,14 @@
+PyGithub==2.9.0
+python-dotenv==1.2.0
+google-cloud-secret-manager==2.22.0
+google-adk
+google-generativeai
+google-genai
+google-auth
+vertexai
+requests
+google-cloud-discoveryengine
+python-multipart
+google-cloud-dataplex
+
+# Create a branch and pull request with the file changes in Github with the commit message: "chore/ Modified files"
