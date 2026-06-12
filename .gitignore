@@ -1,0 +1,11 @@
+# Automation Tooling (Keep out of branches)
+.env
+.memory_store.json
+tools/
+agent.py
+architect/agent.py
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
