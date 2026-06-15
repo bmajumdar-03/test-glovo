@@ -1,1 +1,0 @@
-# Glovo Data Product
