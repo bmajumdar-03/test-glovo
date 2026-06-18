@@ -1,0 +1,9 @@
+#!/bin/sh
+'''exec' "/Users/pmajety/Work Related/Pod Specific/Glovo/Feedback Loop Git PR/GH-PR/Feedback-GH-PR/.venv1/bin/python3.13" "$0" "$@"
+' '''
+import sys
+from jsonschema.cli import main
+if __name__ == '__main__':
+    if sys.argv[0].endswith('.exe'):
+        sys.argv[0] = sys.argv[0][:-4]
+    sys.exit(main())
