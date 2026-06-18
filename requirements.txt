@@ -1,0 +1,10 @@
+google-genai
+google-adk
+python-dotenv
+google-auth
+vertexai
+requests
+google-cloud-discoveryengine
+python-multipart
+google-cloud-dataplex
+PyGithub
